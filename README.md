@@ -7,7 +7,7 @@
 >[!NOTE]
 >**_Skills:_**
 >
->Data Manipulation
+>Data Management
 >
 >**_Technologies:_**
 >
